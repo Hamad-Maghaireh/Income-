@@ -1,1 +1,1 @@
-# Income-
+# Income Classification Model
